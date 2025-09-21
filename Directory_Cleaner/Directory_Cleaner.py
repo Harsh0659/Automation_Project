@@ -166,5 +166,6 @@ def main():
     print("---------------- Directory_Cleaner Tool ----------------")
     print(Border)
 
-if __name__ == "_main_":
+if __name__ == "__main__":
+
     main()
